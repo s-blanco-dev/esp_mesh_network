@@ -1,2 +1,2 @@
-idf_component_register(SRCS "mesh_esp32.c"
+idf_component_register(SRCS "test.c"
                     INCLUDE_DIRS ".")
