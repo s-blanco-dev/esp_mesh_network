@@ -24,6 +24,7 @@
 #define CONFIG_MESH_AP_PASSWD     "mesh1234"
 #define CONFIG_MESH_AP_CONNECTIONS 6
 
+// uuu
 /* ---------- UART PINS ---------- */
 #define UART_NUM UART_NUM_1
 #define TX_PIN   7
